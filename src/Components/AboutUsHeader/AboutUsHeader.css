@@ -1,0 +1,71 @@
+.about-us-header {
+    border: 1px solid #ECECEC;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 7px 109px 6px 109px;
+    width: 1440px;
+  }
+  
+  .header-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    margin: 0 0 1px 0;
+    padding: 16.5px 0 0.5px 0;
+    width: 146.7px;
+  }
+  
+  .logo img {
+    width: 31px;
+    height: 33px;
+  }
+  
+  .logo span {
+    margin-left: 7.5px;
+    font-family: 'League Spartan';
+    font-weight: 500;
+    font-size: 17.6px;
+    color: #004771;
+  }
+  
+  .nav-links {
+    display: flex;
+    justify-content: space-between;
+    margin: 4px 0 0 0;
+    width: 529px;
+  }
+  
+  .nav-links span {
+    margin: 7px 0 8px 0;
+    font-family: 'League Spartan';
+    font-size: 16px;
+    color: #004771;
+  }
+  
+  .account-link {
+    display: flex;
+    justify-content: space-between;
+    margin: 7px 0 8px 0;
+    padding: 8px 11.3px 7px 10px;
+    width: 100px;
+    background-color: #004771;
+    border-radius: 2px;
+  }
+  
+  .account-link span {
+    font-family: 'League Spartan';
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  
+  .account-link img {
+    margin: 5.5px 0 6.1px 0;
+    width: 5.4px;
+    height: 3.4px;
+  }
+  
